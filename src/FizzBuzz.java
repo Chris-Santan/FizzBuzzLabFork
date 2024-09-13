@@ -19,7 +19,7 @@ class FizzBuzz {
 
             } else if (divisibleBy3) {
 
-                System.out.println("Fizz");
+                System.out.println("Fizzed");
 
             } else if (divisibleBy5) {
 
